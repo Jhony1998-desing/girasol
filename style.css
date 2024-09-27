@@ -358,7 +358,7 @@ body {
 }
 
 
-@media (max-width: 758px) {
+@media (max-width: 1000px) {
     .carta {
         max-width: 100%; /* Cambiar el ancho máximo para que ocupe todo el ancho */
         max-height: none; /* Eliminar la altura máxima para que sea variable */
